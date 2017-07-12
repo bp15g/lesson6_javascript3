@@ -4,19 +4,15 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
-
+July 10, 2017
 ### Student Name:  
-(First and Last Name)
-
+Brian Pearson
 ### Project Description:
-(In your own words, briefly describe the assignment.)
-
+I built an application that displays a photo gallery
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://bp15g.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+I leared how to attach an event handler to a specified element
+I learned how to create a loop to run an photoOrder array
+I created figure and img elements to display an image
